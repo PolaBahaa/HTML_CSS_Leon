@@ -2,7 +2,7 @@
 ## First Template From ELZero Web School Roadmap
 
 ### But With Additional Advanced Features:
-1. Animated Navigation Menu --> Linked with each section.
+1. Animated Navigation Menu --> Linked with each Section.
 2. Scroll To Top Button --> Using only HTML & CSS.
 3. Dark Mode Switch --> Using only HTML & CSS.
 4. Wallpaper Change --> Using only HTML & CSS.

@@ -1,6 +1,7 @@
 # HTML_CSS_Leon
 ## First Template From ELZero Web School Roadmap
-### But with additional advanced features:
+
+### But With Additional Advanced Features:
 1. Animated Navigation Menu --> Linked with each section.
 2. Scroll To Top Button --> Using only HTML & CSS.
 3. Dark Mode Switch --> Using only HTML & CSS.

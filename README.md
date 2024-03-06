@@ -6,5 +6,6 @@
 2. Scroll To Top Button --> Using only HTML & CSS.
 3. Dark Mode Switch --> Using only HTML & CSS.
 4. Wallpaper Change --> Using only HTML & CSS.
-5. Replacing Javascript Click Events --> By Using Input Checkboxes Instead.
-6. Additional Transitions.
+5. Replacing Javascript Click Events --> Using Input Checkboxes Instead.
+6. Responsive Design For PC, Phones & Tablets --> Using Media Queries.
+7. Additional Transitions.
